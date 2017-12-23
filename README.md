@@ -1,2 +1,2 @@
-# skyyfall007.github.io
-personal landing page.
+# Hello There.
+just some source code for my personal landing page.
